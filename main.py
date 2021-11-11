@@ -4,7 +4,6 @@
 # Need help ? DM me on discord punch-hax 〄#3174
 # https://github.com/punch-hax
 
-
 import os       ; from os import system
 import json     ; from json import load
 import time     ; from time import sleep
