@@ -1,7 +1,7 @@
 # YOU MAY GET BANNED USING THIS ! DISCORD TOS
 # YOU CAN ONLY USE TWITCH AND YOUTUBE LINK !
 
-# Need help ? DM me on discord punch-hax 〄#3174
+# Need help ? DM me on discord punch ツ#3174
 # https://github.com/punch-hax
 
 import os       ; from os import system
