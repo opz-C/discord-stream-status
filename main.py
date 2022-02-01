@@ -1,8 +1,8 @@
 # YOU MAY GET BANNED USING THIS ! DISCORD TOS
 # YOU CAN ONLY USE TWITCH AND YOUTUBE LINK !
 
-# Need help ? DM me on discord punch ツ#3174
-# https://github.com/punch-hax
+# Need help ? DM me on discord pU#9999
+# https://github.com/punch000
 
 import os       ; from os import system
 import json     ; from json import load
