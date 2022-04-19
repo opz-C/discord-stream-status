@@ -1,3 +1,3 @@
 pip install -r requirements.txt
 
-del requirements.txt & del readme.md & del install.bat
+del requirements.txt & del install.bat
